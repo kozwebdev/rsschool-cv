@@ -1,4 +1,5 @@
 # rsschool-cv
+![This is my photo](MyPhoto.png "This is me! Hi.")
 ## Alexandr Kozachenko
 Male, 33 years, born on 18 October 1988
 ### Contacts
