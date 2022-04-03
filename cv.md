@@ -11,7 +11,7 @@ Male, 33 years, born on 18 October 1988
       Programmer, frontend developer
 ### About me  
   I want to work as frontend developer. More preferable remote.  
-### skills  
+### Skills  
 - HTML
 - CSS, SCSS
 - JavaScript (Fundamentals,Functional Programming, OOP, Asynchronous JavaScript, ES6+,DOM),JSON.
